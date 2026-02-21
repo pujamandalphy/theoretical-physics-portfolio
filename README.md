@@ -1,14 +1,12 @@
-This repository contains selected coursework-style assignments, independent reports,
-and thesis work compiled during my transition toward theoretical physics.
+This repository presents a curated body of academic work developed during my transition toward theoretical physics. It includes structured coursework-style assignments, independent theoretical reports, and undergraduate and master’s thesis research.
 
-The material reflects self-study and independent preparation in quantum field theory,
-general relativity, mathematical methods for physics, and topics related to AdS/CFT.
-Both undergraduate and master’s level theses are included for completeness, along with
-supporting computational work.
+The material reflects sustained self-study and independent preparation in quantum field theory, general relativity, advanced mathematical methods, and topics related to AdS/CFT. Emphasis is placed on careful derivations, conceptual clarity, and technical development. Supporting computational work and numerical explorations are included where relevant.
 
-Folders:
-- Assignments/: Coursework-style problem sets and written solutions (QFT, Group theory, Topology and Diff Geometry)
-- Independent_Reports/: Longer self-contained theoretical reports
-- BSc_Thesis/: Undergraduate (BSc) thesis
-- MSc_Thesis/: Master’s (MSc) thesis
-- Computational_Work/: Numerical simulations and code-based projects
+Repository Structure
+
+- Assignments/ – Problem sets and detailed written solutions (QFT, group theory, topology, differential geometry)
+- Independent_Reports/ – Self-contained theoretical reports on selected advanced topics
+- BASICS_OF_CFT/ – A guided and reviewed prerequisite development for the study of Conformal Field Theory
+- BSc_Thesis/ – Undergraduate (BSc) thesis
+- MSc_Thesis/ – Master’s (MSc) thesis
+- Computational_Work/ – Numerical simulations and code-based physics projects
