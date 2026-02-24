@@ -8,3 +8,4 @@ Repository Structure
   - BSc_Thesis/ – Undergraduate (BSc) thesis
 - MSc_Thesis/ – Master’s (MSc) thesis
 - Computational_Work/ – Numerical simulations and code-based physics projects
+-Independent research project
