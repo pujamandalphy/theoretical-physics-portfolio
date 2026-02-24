@@ -5,8 +5,6 @@ The material reflects sustained self-study and independent preparation in quantu
 Repository Structure
 
 - Assignments/ – Problem sets and detailed written solutions (QFT, group theory, topology, differential geometry)
-- Independent_Reports/ – Self-contained theoretical reports on selected advanced topics
-- BASICS_OF_CFT/ – A guided and reviewed prerequisite development for the study of Conformal Field Theory
-- BSc_Thesis/ – Undergraduate (BSc) thesis
+  - BSc_Thesis/ – Undergraduate (BSc) thesis
 - MSc_Thesis/ – Master’s (MSc) thesis
 - Computational_Work/ – Numerical simulations and code-based physics projects
