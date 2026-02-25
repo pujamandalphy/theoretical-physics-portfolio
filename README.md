@@ -4,8 +4,8 @@ The material reflects sustained self-study and independent preparation in quantu
 
 Repository Structure
 
-- Assignments/ – Problem sets and detailed written solutions (QFT, group theory, topology, differential geometry)
+- Assignments/ – Problem sets and detailed written solutions (group theory, topology, differential geometry)
   - BSc_Thesis/ – Undergraduate (BSc) thesis
 - MSc_Thesis/ – Master’s (MSc) thesis
 - Computational_Work/ – Numerical simulations and code-based physics projects
--Independent research project
+  
